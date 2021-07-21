@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CurrencyExchangeList</string>
+    <string name="unable_to_load_currencies">Unable to load currencies</string>
+</resources>
